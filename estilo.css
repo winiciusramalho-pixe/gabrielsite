@@ -1,0 +1,16 @@
+body {
+    max-width: 800px;
+    margin:0 auto;
+}
+
+header{
+background-color: blue;
+color:aliceblue
+text-align: center;
+}
+
+
+main{
+    background-color:aqua;
+    color:azure;
+}
